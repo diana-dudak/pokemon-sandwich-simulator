@@ -1,0 +1,90 @@
+.MyRecepies {
+    text-align: left;
+    padding: 2rem;
+}
+
+.MyRecepies .bubble {
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 18px;
+    font-weight: bolder;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    letter-spacing: 4px;
+    box-sizing: border-box;
+    border-width: 2px;
+}
+.MyRecepies .bubble.key-selected {
+    outline: 2px solid rgba(255, 255, 255, 0.4);
+    outline-offset: -4px;
+}
+
+.MyRecepies__grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 1rem;
+}
+
+.MyRecepies__buff {
+    background-color: rgb(250, 250, 250);
+    border-radius: 8px;
+    border: 2px solid gray;
+    text-align: center;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    cursor: pointer;
+}
+
+.MyRecepies__buff .MyRecepies__buff__title {
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+
+    text-transform: uppercase;
+}
+
+.MyRecepies__buff .MyRecepies__buff__note {
+    border-top: 2px solid gray;
+    padding: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.MyRecepies__buff.is-selected {
+    border-style: dashed;
+    background-color: rgb(233, 233, 233);
+}
+
+.MyRecepies__buff.is-selected .MyRecepies__buff__note {
+    border-top-style: dashed;
+}
+
+.MyRecepies__button {
+    padding: 0.5rem 2rem;
+    border: 2px solid gray;
+    border-radius: 4px;
+
+    background-color: rgb(250, 250, 250);
+
+    font-size: 18px;
+
+    cursor: pointer;
+
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
+
+.MyRecepies__button:hover {
+    background-color: rgb(233, 233, 233);
+}
+
+.MyRecepies__button:active {
+    background-color: rgb(219, 219, 219);
+}

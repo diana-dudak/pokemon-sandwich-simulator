@@ -136,11 +136,11 @@ const Card = props => {
             <img alt={"Total"} src="https://www.serebii.net/itemdex/sprites/sandwich.png" />
             <div>Total Stats</div>
         </div>}
-        {!isSum && ingredient && isFilling(ingredient) && <div className="pieces">
+        {/* {!isSum && ingredient && isFilling(ingredient) && <div className="pieces">
             <div title='How many pieces of this filling to put on sandwich'>Pieces: {ingredient.pieces}</div>
             <button className='piece-button' onClick={() => modifyPieces(-1)}>-</button>
             <button className='piece-button' onClick={() => modifyPieces(1)}>+</button>
-        </div>}
+        </div>} */}
         {showStats && <div className='bubble-row'>{tastes.map((x, i) => renderKeyValue(x, i))}</div>}
         {showStats && <div className='bubble-row'>{powers.map((x, i) => renderKeyValue(x, i))}</div>}
         {showStats && <div className='bubble-row'>

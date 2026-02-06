@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding: 2rem 0;
 }
 
 .expand-button {
@@ -130,7 +131,7 @@
 }
 
 .complex-search-panel > * {
-  margin-bottom:6px;
+  margin-bottom: 6px;
 }
 
 .settings-bar {
@@ -147,12 +148,13 @@
 }
 
 .card {
-  border: 1px solid black;
+  border: 2px solid black;
   text-align: left;
   border-radius: 10px;
   margin: 2px;
   width: fit-content;
   height: fit-content;
+  overflow: hidden;
 }
 
 .page-break {
@@ -269,4 +271,8 @@
 
 small {
   font-size: 0.7em;
+}
+
+.math {
+  min-height: 12rem;
 }

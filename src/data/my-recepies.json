@@ -1,0 +1,251 @@
+[
+  {
+    "title": "Raid power lvl 2",
+    "sandwiches": [
+      { "type": "Normal", "recepie": "Banana-3_Butter,Jam,Peanut Butter" },
+      {
+        "type": "Fighting",
+        "recepie": "Herbed Sausage-3,Herbed Sausage-3,Herbed Sausage-3,Herbed Sausage-3,Potato Tortilla-1,Potato Tortilla-1_Butter,Butter,Chili Sauce,Salt"
+      },
+      {
+        "type": "Flying",
+        "recepie": "Prosciutto-3,Rice-1,Rice-1,Egg-3,Egg-3,Egg-3_Curry Powder,Pepper,Whipped Cream,Whipped Cream"
+      },
+      {
+        "type": "Poison",
+        "recepie": "Chorizo-3,Chorizo-3,Chorizo-3,Green Bell Pepper-3,Noodles-1,Noodles-1_Pepper,Whipped Cream,Whipped Cream,Whipped Cream"
+      },
+      {
+        "type": "Ground",
+        "recepie": "Fried Fillet-1,Fried Fillet-1,Herbed Sausage-3,Herbed Sausage-3,Herbed Sausage-3,Herbed Sausage-3_Chili Sauce,Pepper,Yogurt,Yogurt"
+      },
+      {
+        "type": "Rock",
+        "recepie": "Egg-3,Egg-3,Egg-3,Noodles-1,Noodles-1,Potato Tortilla-1_Curry Powder,Pepper,Whipped Cream,Whipped Cream"
+      },
+      {
+        "type": "Bug",
+        "recepie": "Cherry Tomatoes-3,Chorizo-3,Chorizo-3,Chorizo-3,Potato Salad-1,Potato Salad-1_Pepper,Whipped Cream,Whipped Cream,Whipped Cream"
+      },
+      {
+        "type": "Ghost",
+        "recepie": "Herbed Sausage-3,Lettuce-3_Ketchup,Mustard"
+      },
+      {
+        "type": "Steel",
+        "recepie": "Apple-3,Egg-3,Egg-3,Egg-3,Potato Salad-1,Potato Salad-1_Curry Powder,Pepper,Whipped Cream,Whipped Cream"
+      },
+      {
+        "type": "Fire",
+        "recepie": "Basil-4,Chorizo-3,Green Bell Pepper-3,Jalapeno-3,Onion-3_Chili Sauce,Mustard,Pepper"
+      },
+      {
+        "type": "Water",
+        "note": "Can only be bought from a restourant Sushi High Roller in Montenevera(Ghost gym) - Exclusive Four-Piece Sushi(Frost Set)"
+      },
+      {
+        "type": "Grass",
+        "recepie": "Egg-3,Egg-3,Egg-3,Egg-3,Potato Tortilla-1,Potato Tortilla-1_Mustard,Pepper,Pepper,Yogurt"
+      },
+      {
+        "type": "Electric",
+        "recepie": "Avocado-3,Basil-4,Cheese-3_Cream Cheese,Pepper,Salt"
+      },
+      {
+        "type": "Psychic",
+        "recepie": "Basil-4,Red Onion-3,Smoked Fillet-3,Watercress-3_Pepper,Salt,Vinegar"
+      },
+      {
+        "type": "Ice",
+        "recepie": "Egg-3,Egg-3,Egg-3,Klawf Stick-3,Noodles-1,Noodles-1_Curry Powder,Wasabi,Whipped Cream,Yogurt"
+      },
+      {
+        "type": "Dragon",
+        "recepie": "Avocado-3,Chorizo-3,Chorizo-3,Chorizo-3,Potato Salad-1,Potato Salad-1_Pepper,Whipped Cream,Whipped Cream,Whipped Cream"
+      },
+      {
+        "type": "Dark",
+        "recepie": "Fried Fillet-1,Lettuce-3,Potato Salad-1_Horseradish,Ketchup,Mayonnaise"
+      },
+      {
+        "type": "Fairy",
+        "recepie": "Egg-3,Egg-3,Egg-3,Potato Salad-1,Potato Salad-1,Potato Tortilla-1_Curry Powder,Curry Powder,Yogurt,Yogurt"
+      }
+    ]
+  },
+  {
+    "title": "Shiny lvl 3",
+    "note": "do not mix Sweet and Sour, 2 sweet or 2 sour",
+    "sandwiches": [
+      {
+        "type": "Normal",
+        "recepie": "Cucumber-3,Pickle-3,Tofu-3,Tofu-3,Tofu-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Fighting",
+        "recepie": "Cucumber-3,Pickle-3,Pickle-3,Pickle-3,Pickle-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Flying",
+        "recepie": "Cucumber-3,Pickle-3,Prosciutto-3,Prosciutto-3,Prosciutto-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Poison",
+        "recepie": "Cucumber-3,Green Bell Pepper-3,Green Bell Pepper-3,Green Bell Pepper-3,Pickle-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Ground",
+        "recepie": "Cucumber-3,Ham-3,Ham-3,Ham-3,Pickle-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Rock",
+        "recepie": "Bacon-3,Bacon-3,Bacon-3,Cucumber-3,Pickle-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Bug",
+        "recepie": "Cherry Tomatoes-3,Cherry Tomatoes-3,Cherry Tomatoes-3,Cucumber-3,Pickle-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Ghost",
+        "recepie": "Cucumber-3,Pickle-3,Red Onion-3,Red Onion-3,Red Onion-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Steel",
+        "recepie": "Cucumber-3,Hamburger-1,Hamburger-1,Hamburger-1,Pickle-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Fire",
+        "recepie": "Cucumber-3,Pickle-3,Red Bell Pepper-3,Red Bell Pepper-3,Red Bell Pepper-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Water",
+        "recepie": "Cucumber-3,Cucumber-3,Cucumber-3,Cucumber-3,Pickle-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Grass",
+        "recepie": "Cucumber-3,Lettuce-3,Lettuce-3,Lettuce-3,Pickle-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Electric",
+        "recepie": "Cucumber-3,Pickle-3,Yellow Bell Pepper-3,Yellow Bell Pepper-3,Yellow Bell Pepper-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Psychic",
+        "recepie": "Cucumber-3,Onion-3,Onion-3,Onion-3,Pickle-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Ice",
+        "recepie": "Cucumber-3,Klawf Stick-3,Klawf Stick-3,Klawf Stick-3,Pickle-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Dragon",
+        "recepie": "Avocado-3,Avocado-3,Avocado-3,Cucumber-3,Pickle-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Dark",
+        "recepie": "Cucumber-3,Pickle-3,Smoked Fillet-3,Smoked Fillet-3,Smoked Fillet-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      },
+      {
+        "type": "Fairy",
+        "recepie": "Cucumber-3,Pickle-3,Tomato-3,Tomato-3,Tomato-3_Bitter Herba Mystica,Bitter Herba Mystica"
+      }
+    ]
+  },
+  {
+    "title": "Encounter lvl 2",
+    "sandwiches": [
+      {
+        "type": "Bug",
+        "recepie": "Avocado-3,Cucumber-3,Potato Salad-1,Red Bell Pepper-3,Red Onion-3_Mayonnaise"
+      },
+      {
+        "type": "Dark",
+        "recepie": "Avocado-3,Lettuce-3,Smoked Fillet-3,Tomato-3_Salt"
+      },
+      {
+        "type": "Dragon",
+        "recepie": "Avocado-3,Smoked Fillet-3,Tomato-3_Salt"
+      },
+      {
+        "type": "Electric",
+        "recepie": "Chorizo-3,Chorizo-3,Chorizo-3,Chorizo-3,Yellow Bell Pepper-3,Yellow Bell Pepper-3_Peanut Butter,Peanut Butter,Peanut Butter,Peanut Butter"
+      },
+      {
+        "type": "Fairy",
+        "recepie": "Ham-3,Jalapeno-3,Pickle-3,Prosciutto-3_Mayonnaise,Mustard"
+      },
+      {
+        "type": "Fighting",
+        "recepie": "Avocado-3,Cherry Tomatoes-3,Kiwi-3,Pickle-3_Marmalade,Salt"
+      },
+      {
+        "type": "Fire",
+        "recepie": "Chorizo-3,Chorizo-3,Chorizo-3,Chorizo-3,Red Bell Pepper-3,Red Bell Pepper-3_Peanut Butter,Peanut Butter,Peanut Butter,Peanut Butter"
+      },
+      {
+        "type": "Flying",
+        "recepie": "Cucumber-3,Egg-3,Red Onion-3_Mayonnaise,Salt"
+      },
+      {
+        "type": "Ghost",
+        "recepie": "Cherry Tomatoes-3,Cucumber-3,Green Bell Pepper-3,Red Onion-3_Olive Oil,Salt,Vinegar"
+      },
+      {
+        "type": "Grass",
+        "recepie": "Klawf Stick-3,Lettuce-3,Tomato-3_Olive Oil,Salt,Wasabi"
+      },
+      { "type": "Ground", "recepie": "Herbed Sausage-3_Ketchup,Mustard" },
+      {
+        "type": "Ice",
+        "recepie": "Klawf Stick-3,Klawf Stick-3,Rice-1,Smoked Fillet-3,Smoked Fillet-3,Watercress-3_Salt,Vinegar,Wasabi"
+      },
+      {
+        "type": "Normal",
+        "recepie": "Jalapeno-3,Rice-1,Tomato-3_Curry Powder,Mayonnaise"
+      },
+      {
+        "type": "Poison",
+        "recepie": "Cucumber-3,Egg-3,Red Onion-3_Mayonnaise,Salt"
+      },
+      {
+        "type": "Psychic",
+        "recepie": "Herbed Sausage-3,Herbed Sausage-3,Herbed Sausage-3,Herbed Sausage-3,Onion-3,Onion-3_Peanut Butter,Peanut Butter,Peanut Butter,Peanut Butter"
+      },
+      {
+        "type": "Rock",
+        "recepie": "Bacon-3,Basil-4,Cheese-3,Lettuce-3,Tomato-3_Mayonnaise,Mustard"
+      },
+      {
+        "type": "Steel",
+        "recepie": "Hamburger-1,Klawf Stick-3,Noodles-1,Potato Salad-1,Rice-1,Tofu-3_Curry Powder,Olive Oil,Salt"
+      },
+      {
+        "type": "Water",
+        "recepie": "Cucumber-3,Cucumber-3,Herbed Sausage-3,Herbed Sausage-3,Herbed Sausage-3,Herbed Sausage-3_Peanut Butter,Peanut Butter,Peanut Butter,Peanut Butter"
+      }
+    ]
+  },
+  {
+    "title": "Empty preset to copy",
+    "sandwiches": [
+      { "type": "Bug", "recepie": "" },
+      { "type": "Dark", "recepie": "" },
+      { "type": "Dragon", "recepie": "" },
+      { "type": "Electric", "recepie": "" },
+      { "type": "Fairy", "recepie": "" },
+      { "type": "Fighting", "recepie": "" },
+      { "type": "Fire", "recepie": "" },
+      { "type": "Flying", "recepie": "" },
+      { "type": "Ghost", "recepie": "" },
+      { "type": "Grass", "recepie": "" },
+      { "type": "Ground", "recepie": "" },
+      { "type": "Ice", "recepie": "" },
+      { "type": "Normal", "recepie": "" },
+      { "type": "Poison", "recepie": "" },
+      { "type": "Psychic", "recepie": "" },
+      { "type": "Rock", "recepie": "" },
+      { "type": "Steel", "recepie": "" },
+      { "type": "Water", "recepie": "" }
+    ]
+  }
+]

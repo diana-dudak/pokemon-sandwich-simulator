@@ -1,0 +1,1 @@
+cd C:\Work\_personal\pokemon-sandwich-simulator && yarn start
